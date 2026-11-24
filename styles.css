@@ -92,7 +92,7 @@ td {
 #control {
 	position: fixed;
 	z-index: 9;
-	top: 200px;
+	top: 150px;
 	left: 250px;
 	border: 2px solid black;
 	padding: 10px;
@@ -178,7 +178,7 @@ td {
 	padding: 3px 0px;
 	background-color: white;
 	text-align: center;
-	max-height: 390px;
+	max-height: 250px;
 	overflow-y: auto;
 }
 
